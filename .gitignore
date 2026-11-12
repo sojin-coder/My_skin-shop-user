@@ -1,0 +1,13 @@
+# Environment variables
+.env
+.env.*
+
+# Allow example environment file
+!.env.example
+
+# Sensitive files
+password.txt
+
+# Dependencies
+/vendor/
+/node_modules/
